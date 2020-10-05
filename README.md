@@ -1,3 +1,3 @@
 # Coding-Practice
 
-Repository from various Coding sites.
+Repository of Codes from various Coding sites.
