@@ -17,3 +17,4 @@ def decodeHuff(root, s):
         if curr.right is None and curr.left is None:
             string.append(curr.data)
             curr = root
+    print("".join(string)) 
